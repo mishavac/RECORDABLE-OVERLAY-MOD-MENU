@@ -1,7 +1,7 @@
 Package: com.axlebolt.standoff2
 Name: Standoff 2 Mod Menu
 Depends: mobilesubstrate
-Version: 0.18.5
+Version: 0.19.0
 Architecture: iphoneos-arm
 Description: Standoff 2 Mod Menu by Softerov!
 Maintainer: Softerov
